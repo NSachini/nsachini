@@ -32,7 +32,7 @@ Learning how people hide things and where people are likely to look.
 <hr>
 
 [![LinkedIn: @sachinianjana](https://img.shields.io/badge/-sachinianjana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinianjana/)](https://www.linkedin.com/in/sachinianjana/)
-[![GitHub: @sachinianjana](https://img.shields.io/github/followers/sachinianjana?color=green&logo=github&style=flat-square)](https://github.com/sachinianjana)
+[![GitHub: @nsachini](https://img.shields.io/github/followers/nsachini?color=green&logo=github&style=flat-square)](https://github.com/nsachini)
 ![](https://komarev.com/ghpvc/?username=sachinianjana&style=flat-square&color=brightgreen)
 
 <hr>
