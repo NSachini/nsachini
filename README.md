@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 
-<h2 align=center>Hi folks!  :wave: I'm Sachini Anjana 👋</h2>
+<h2 align=center>Hi folks!  :wave: I'm Sachini Anjana 👋</h2><br>
 
 </h3> 
 
@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 Learning how people hide things and where people are likely to look.
 
 <!---  :raised_hand: I’m looking to collaborate on open source and commercial projects.
-- 🔭 I’m currently working on Web Develepment Projects
-- 🌱 I’m currently learning Web Develepment and Programming Languages
-- 📫 How to reach me: Gmail: sachini.anjana619@gmail.com
-- 😄 Pronouns: she/her
 
 
 <hr>
@@ -54,6 +50,11 @@ Learning how people hide things and where people are likely to look.
 - PHP
 - Python
 - Java Script
+
+
+### 📫 How to reach me: Gmail: sachini.anjana619@gmail.com
+### 😄 Pronouns: she/her
+
 
 <hr>
 
