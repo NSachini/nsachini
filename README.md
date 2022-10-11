@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -  I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. 
 Learning how people hide things and where people are likely to look.
 
-<!---  :raised_hand: I’m looking to collaborate on open source and commercial projects.
+<!---  :raised_hand: I’m looking to collaborate on open source and commercial projects. --->
 
 <hr>
 
@@ -33,14 +33,14 @@ Learning how people hide things and where people are likely to look.
 
 <hr>
 
-<!-- ### 🔭 I’m currently working on ...
+ ### 🔭 I’m currently working on ...
 
 - My projects
 - My CSS skill
 - My Java Script skill
 - My HTML skill
 
-<!-- ### 🌱 I’m currently learning ...
+ ### 🌱 I’m currently learning ...
 
 - Html
 - Css
@@ -49,6 +49,12 @@ Learning how people hide things and where people are likely to look.
 - PHP
 - Python
 - Java Script
+
+ ### 📫 How to reach me: sachini.anjana619@gmail.com
+
+ ### 😄 Pronouns: She/Her
+
+
 
 <hr>
 
@@ -63,7 +69,7 @@ Learning how people hide things and where people are likely to look.
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;<br>
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)<br>
+![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)<br>
 <!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
 
 <!--![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android-studio)
@@ -74,8 +80,7 @@ Learning how people hide things and where people are likely to look.
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  -->
 <!--![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)  -->
 <!-- ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase) -->
-<!--![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
+<!--![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
 -->
 <br><hr>
 
