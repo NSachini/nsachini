@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <h2 align=center>Hi folks!  :wave: I'm Sachini Anjana 👋</h2>
 
-<h3 align="center">
-I'm a  Web Developer 💻!
 </h3> 
 
 -  :girl: I'm currently following BSc in Management Information Systems(special) (UGC) degree at NSBM Green University. 
@@ -26,7 +24,11 @@ I'm a  Web Developer 💻!
 Learning how people hide things and where people are likely to look.
 
 <!---  :raised_hand: I’m looking to collaborate on open source and commercial projects.
-- 📫 How to reach me: bakashgamage.com-->
+- 🔭 I’m currently working on Web Develepment Projects
+- 🌱 I’m currently learning Web Develepment and Programming Languages
+- 📫 How to reach me: Gmail: sachini.anjana619@gmail.com
+- 😄 Pronouns: she/her
+
 
 <hr>
 
@@ -85,8 +87,8 @@ Learning how people hide things and where people are likely to look.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsachini&layout=compact&theme=dark)
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=nsachini&&show_icons=true&count_private=true&theme=dark&hide=issues&include_all_commits=true"/>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsachini" alt="nsachini" /></a> </p> -->
 
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsachini" alt="nsachini" /></a> </p> -->
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsachini&" alt="nsachini" /></p>
