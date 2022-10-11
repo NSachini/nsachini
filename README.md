@@ -52,8 +52,6 @@ Learning how people hide things and where people are likely to look.
 - Java Script
 
 
-### 📫 How to reach me: Gmail: sachini.anjana619@gmail.com
-### 😄 Pronouns: she/her
 
 
 <hr>
