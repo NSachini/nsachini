@@ -33,14 +33,14 @@ Learning how people hide things and where people are likely to look.
 
 <hr>
 
-### 🔭 I’m currently working on ...
+<!-- ### 🔭 I’m currently working on ...
 
 - My projects
 - My CSS skill
 - My Java Script skill
 - My HTML skill
 
-### 🌱 I’m currently learning ...
+<!-- ### 🌱 I’m currently learning ...
 
 - Html
 - Css
