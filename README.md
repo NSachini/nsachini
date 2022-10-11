@@ -88,9 +88,10 @@ Learning how people hide things and where people are likely to look.
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=nsachini&&show_icons=true&count_private=true&theme=dark&hide=issues&include_all_commits=true"/>
 
 
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsachini&" alt="nsachini" /></p>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsachini" alt="nsachini" /></a> </p> 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsachini&" alt="nsachini" /></p>
 
 <hr>
