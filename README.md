@@ -26,7 +26,7 @@ Learning how people hide things and where people are likely to look.
 <!---  :raised_hand: I’m looking to collaborate on open source and commercial projects. --->
 
 <hr>
-[!(https://komarev.com/ghpvc/?username=nsachini&label=Profile%20views&color=0e75b6&style=flat" alt="nsachini" />)]
+
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn: @sachinianjana](https://img.shields.io/badge/-sachinianjana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinianjana/)](https://www.linkedin.com/in/sachinianjana/)
