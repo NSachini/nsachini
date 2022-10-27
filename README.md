@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 
-<h2 align="center">Hi 👋, I'm Sachini Anjana</h2><br>
+<h2 align="center">Hi <img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif">, I'm Sachini Anjana</h2><br>
 
 </h3> 
 
@@ -35,6 +35,7 @@ Learning how people hide things and where people are likely to look.
 [![LinkedIn: @sachinianjana](https://img.shields.io/badge/-sachinianjana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinianjana/)](https://www.linkedin.com/in/sachinianjana/)
 
 <hr>
+<img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
 
  ### 🔭 I’m currently working on ...
 
