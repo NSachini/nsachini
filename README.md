@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 
-<h2 align="center">Hi<img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif">, I'm Sachini Anjana</h2><br>
+<h2 align="center">Hi, I'm Sachini Anjana<img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif"></h2><br>
 
 </h3> 
 
