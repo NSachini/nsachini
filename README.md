@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 
-<h2 align=center>Hi folks!  :wave: I'm Sachini Anjana 👋</h2><br>
+<h2 align="center">Hi 👋, I'm Sachini Anjana</h2><br>
 
 </h3> 
 
