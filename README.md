@@ -28,7 +28,7 @@ Learning how people hide things and where people are likely to look.
 <hr>
 
 [![GitHub: @nsachini](https://img.shields.io/github/followers/nsachini?color=green&logo=github&style=flat-square)](https://github.com/nsachini)
-![](https://komarev.com/ghpvc/?username=akashgamage&style=flat-square&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=nsachini&style=flat-square&color=brightgreen)
 
 <h3 align="left">Connect with me:</h3>
 
