@@ -26,9 +26,7 @@ Learning how people hide things and where people are likely to look.
 <!---  :raised_hand: I’m looking to collaborate on open source and commercial projects. --->
 
 <hr>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nsachini&label=Profile%20views&color=0e75b6&style=flat" alt="nsachini" /> </p>
-
+[!(https://komarev.com/ghpvc/?username=nsachini&label=Profile%20views&color=0e75b6&style=flat" alt="nsachini" />)]
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn: @sachinianjana](https://img.shields.io/badge/-sachinianjana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinianjana/)](https://www.linkedin.com/in/sachinianjana/)
@@ -123,7 +121,7 @@ Learning how people hide things and where people are likely to look.
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;<br>
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)-->
+![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python) -->
 
 <!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
 
