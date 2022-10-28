@@ -35,7 +35,7 @@ Learning how people hide things and where people are likely to look.
 [![LinkedIn: @sachinianjana](https://img.shields.io/badge/-sachinianjana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinianjana/)](https://www.linkedin.com/in/sachinianjana/)
 
 <hr>
-<img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
+<img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="500" height="350" alt="girl coding img" >
 
  ### 🔭 I’m currently working on ...
 
