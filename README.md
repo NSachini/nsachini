@@ -59,7 +59,7 @@ Learning how people hide things and where people are likely to look.
 
  ### 😄 Pronouns: She/Her
 
-
+[![@nsanjana's Holopin board](https://holopin.me/nsanjana)](https://holopin.io/@nsanjana)
 
 <hr>
 
@@ -139,12 +139,10 @@ Learning how people hide things and where people are likely to look.
 <!--![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
 -->
 <br>
-
-
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsachini&layout=compact)
-<img height="145" src="https://github-readme-stats.vercel.app/api?username=nsachini&&show_icons=true&count_private=true&hide=issues&include_all_commits=true"/>
+<img height="142" src="https://github-readme-stats.vercel.app/api?username=nsachini&&show_icons=true&count_private=true&hide=issues&include_all_commits=true"/>
 
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsachini&" alt="nsachini" /></p>
