@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="center">
 
 <h2 align="center">Hi, I'm Sachini Anjana<img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif"></h2><br>
@@ -137,7 +138,10 @@ Learning how people hide things and where people are likely to look.
 <!-- ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase) -->
 <!--![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
 -->
-<br><hr>
+<br>
+
+
+<hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsachini&layout=compact)
 <img height="145" src="https://github-readme-stats.vercel.app/api?username=nsachini&&show_icons=true&count_private=true&hide=issues&include_all_commits=true"/>
