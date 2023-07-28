@@ -64,14 +64,7 @@ Here are some ideas to get you started:
 
  ### 😄 Pronouns: She/Her
  
- ### Collaborate and Connect
-I believe in the power of collaboration and open-source contributions. If any of my projects catch your attention, feel free to explore, contribute, or raise issues. Constructive feedback is always welcome as it helps me grow as a developer.
-
-You can reach out to me through the contact information available on my GitHub profile. Let's connect and discuss exciting ideas or potential collaborations!
-
-Thank you for stopping by and taking the time to explore my GitHub profile. Happy coding! 🚀
-
-
+ 
 [![@nsanjana's Holopin board](https://holopin.me/nsanjana)](https://holopin.io/@nsanjana)
 
 
@@ -261,3 +254,14 @@ Thank you for stopping by and taking the time to explore my GitHub profile. Happ
 
 
 <hr>
+
+### 💬 Collaborate and Connect ...
+
+I believe in the power of collaboration and open-source contributions. If any of my projects catch your attention, feel free to explore, contribute, or raise issues. Constructive feedback is always welcome as it helps me grow as a developer.
+
+You can reach out to me through the contact information available on my GitHub profile. Let's connect and discuss exciting ideas or potential collaborations!
+
+Thank you for stopping by and taking the time to explore my GitHub profile. Happy coding! 🚀
+
+<hr>
+
