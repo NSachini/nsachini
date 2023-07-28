@@ -26,16 +26,6 @@ Here are some ideas to get you started:
 -  :girl: I'm currently following BSc in Management Information Systems(Special) (UGC) degree program at NSBM Green University. <br>
 -  I'm a dedicated with a strong background in both front-end and back-end development. My love for programming began when I discovered the power of turning ideas into reality through lines of code. Since then, I've been on an exciting learning path, continuously exploring new technologies and honing my skills.
 
-<h3>What You'll Find Here >> 
-You'll discover a diverse collection of projects that demonstrate my versatility as a developer. From web applications and mobile apps to command-line utilities and everything in between, each project reflects my dedication to writing clean, efficient, and maintainable code.
-<br>
-<h3>Collaborate and Connect >> 
-I believe in the power of collaboration and open-source contributions. If any of my projects catch your attention, feel free to explore, contribute, or raise issues. Constructive feedback is always welcome as it helps me grow as a developer.
-
-You can reach out to me through the contact information available on my GitHub profile. Let's connect and discuss exciting ideas or potential collaborations!
-
-Thank you for stopping by and taking the time to explore my GitHub profile. Happy coding! 🚀 </h3>
-
 <!---  :raised_hand: I’m looking to collaborate on open source and commercial projects. --->
 
 <hr>
