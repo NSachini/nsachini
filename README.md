@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [![LinkedIn: @sachinianjana](https://img.shields.io/badge/-sachinianjana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinianjana/)](https://www.linkedin.com/in/sachinianjana/)
  
 <a href="https://www.hackerrank.com/@sachini_anjana61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sachini_anjana61" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/nsachini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/nsachini" height="30" width="40" /></a>
+<a href="https://dev.to/nsachini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nsachini" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22298004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22298004" height="30" width="40" /></a>
 
 <hr>
