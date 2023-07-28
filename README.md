@@ -64,7 +64,15 @@ Here are some ideas to get you started:
 
  ### 😄 Pronouns: She/Her
  
+ ### 💬 Collaborate and Connect ...
+
+I believe in the power of collaboration and open-source contributions. If any of my projects catch your attention, feel free to explore, contribute, or raise issues. Constructive feedback is always welcome as it helps me grow as a developer.
+
+You can reach out to me through the contact information available on my GitHub profile. Let's connect and discuss exciting ideas or potential collaborations!
+
  
+<hr> 
+
 [![@nsanjana's Holopin board](https://holopin.me/nsanjana)](https://holopin.io/@nsanjana)
 
 
@@ -84,8 +92,8 @@ Here are some ideas to get you started:
 <!--![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)-->
-<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  -->
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)-->
 <!-- ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase) -->
 <!--![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
  <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/> </a> 
@@ -254,12 +262,6 @@ Here are some ideas to get you started:
 
 
 <hr>
-
-### 💬 Collaborate and Connect ...
-
-I believe in the power of collaboration and open-source contributions. If any of my projects catch your attention, feel free to explore, contribute, or raise issues. Constructive feedback is always welcome as it helps me grow as a developer.
-
-You can reach out to me through the contact information available on my GitHub profile. Let's connect and discuss exciting ideas or potential collaborations!
 
 Thank you for stopping by and taking the time to explore my GitHub profile. Happy coding! 🚀
 
