@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <p align="center">
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 <h2 align="center">Hi, I'm Sachini Anjana<img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif"></h2><br>
-</p>
-<h4 align="center">I'm passionate about the entire process of designing and developing innovative software solutions. This GitHub repository serves as a showcase of my journey as a programmer and reflects the various projects I've worked on throughout my career.</h4>
 
+<h3 align="center">I'm passionate about the entire process of designing and developing innovative software solutions. This GitHub repository serves as a showcase of my journey as a programmer and reflects the various projects I've worked on throughout my career.</h3>
+</p>
 </h3> 
--  :girl: I'm currently following BSc in Management Information Systems(Special) (UGC) degree program at NSBM Green University. 
+-  :girl: I'm currently following BSc in Management Information Systems(Special) (UGC) degree program at NSBM Green University. <br>
 -  I'm a dedicated with a strong background in both front-end and back-end development. My love for programming began when I discovered the power of turning ideas into reality through lines of code. Since then, I've been on an exciting learning path, continuously exploring new technologies and honing my skills.
 
 <h3><b>What You'll Find Here >> </b>
