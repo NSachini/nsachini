@@ -65,9 +65,9 @@ I believe in the power of collaboration and open-source contributions. If any of
 
 You can reach out to me through the contact information available on my GitHub profile. Let's connect and discuss exciting ideas or potential collaborations!
 
-### 📫 How to reach me: sachini.anjana619@gmail.com 
+Thank you for stopping by and taking the time to explore my GitHub profile. Happy coding! 🚀
 
-### ⚡ Thank you for stopping by and taking the time to explore my GitHub profile. Happy coding! 🚀
+### 📫 How to reach me: sachini.anjana619@gmail.com 
 
 <hr> 
 
