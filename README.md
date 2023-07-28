@@ -47,8 +47,8 @@ Learning how people hide things and where people are likely to look.
 
  ### 🌱 I’m currently learning ...
 
-- Html
-- Css
+- Dart
+- React
 - Java
 - MySql 
 - PHP
