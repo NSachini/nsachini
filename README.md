@@ -15,14 +15,23 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-
+<h1 align="center">Welcome to My GitHub Profile!</h1>
 <h2 align="center">Hi, I'm Sachini Anjana<img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif"></h2><br>
+</p>
+<h4 align="center">I'm passionate about the entire process of designing and developing innovative software solutions. This GitHub repository serves as a showcase of my journey as a programmer and reflects the various projects I've worked on throughout my career.</h4>
 
 </h3> 
+-  :girl: I'm currently following BSc in Management Information Systems(Special) (UGC) degree program at NSBM Green University. 
+-  I'm a dedicated with a strong background in both front-end and back-end development. My love for programming began when I discovered the power of turning ideas into reality through lines of code. Since then, I've been on an exciting learning path, continuously exploring new technologies and honing my skills.
 
--  :girl: I'm currently following BSc in Management Information Systems(special) (UGC) degree at NSBM Green University. 
--  I love the entire process of developing creative websites, and design. I love the challenge of finding caches and spending time to meet new people. 
-Learning how people hide things and where people are likely to look.
+<h3><b>What You'll Find Here >> </b>
+You'll discover a diverse collection of projects that demonstrate my versatility as a developer. From web applications and mobile apps to command-line utilities and everything in between, each project reflects my dedication to writing clean, efficient, and maintainable code.</h3>
+<h3><b>Collaborate and Connect >> </b>
+I believe in the power of collaboration and open-source contributions. If any of my projects catch your attention, feel free to explore, contribute, or raise issues. Constructive feedback is always welcome as it helps me grow as a developer.
+
+You can reach out to me through the contact information available on my GitHub profile. Let's connect and discuss exciting ideas or potential collaborations!
+
+Thank you for stopping by and taking the time to explore my GitHub profile. Happy coding! 🚀 </h3>
 
 <!---  :raised_hand: I’m looking to collaborate on open source and commercial projects. --->
 
