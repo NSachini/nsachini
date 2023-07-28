@@ -32,9 +32,9 @@ Learning how people hide things and where people are likely to look.
 ![](https://komarev.com/ghpvc/?username=nsachini&style=flat-square&color=brightgreen)
 
 <h3 align="left">Connect with me:</h3>
+[![LinkedIn: @sachinianjana](https://img.shields.io/badge/-sachinianjana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinianjana/)](https://www.linkedin.com/in/sachinianjana/)
 
 <p align="left">
-[![LinkedIn: @sachinianjana](https://img.shields.io/badge/-sachinianjana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinianjana/)](https://www.linkedin.com/in/sachinianjana/)
  
 <a href="https://www.hackerrank.com/@sachini_anjana61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sachini_anjana61" height="30" width="40" /></a>
 </p>
