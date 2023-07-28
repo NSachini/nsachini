@@ -263,6 +263,7 @@ You can reach out to me through the contact information available on my GitHub p
 
 <hr>
 
+### ⚡ 
 Thank you for stopping by and taking the time to explore my GitHub profile. Happy coding! 🚀
 
 <hr>
