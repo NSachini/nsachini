@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </h3> 
 
 -  :girl: I'm currently following BSc in Management Information Systems(special) (UGC) degree at NSBM Green University. 
--  I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. 
+-  I love the entire process of developing creative websites, and design. I love the challenge of finding caches and spending time to meet new people. 
 Learning how people hide things and where people are likely to look.
 
 <!---  :raised_hand: I’m looking to collaborate on open source and commercial projects. --->
