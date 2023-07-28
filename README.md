@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <h1 align="center">Welcome to My GitHub Profile!</h1>
-<h2 align="center">Hi, I'm Sachini Anjana<img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="80" height="100" alt="gif">
+<h2 align="center">Hi, I'm Sachini Anjana<img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="100" height="200" alt="gif">
 </h2><br>
 </p>
 
