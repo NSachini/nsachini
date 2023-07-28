@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 -  :girl: Currently following BSc in Management Information Systems(Special) (UGC) degree program at NSBM Green University. <br>
 
--  I'm passionate about the entire process of designing and developing innovative software solutions in both front-end and back-end development. My love for programming began when I discovered the power of turning ideas into reality through lines of code. Since then, I've been on an exciting learning path, continuously exploring new technologies and honing my skills. This GitHub repository serves as a showcase of my journey as a programmer and reflects the various projects I've worked on throughout my career.
+-  I'm passionate about the entire process of designing and developing innovative software solutions in both front-end and back-end development. My passion for programming began when I discovered the power of turning ideas into reality through lines of code. Since then, I've been on an exciting learning path, continuously exploring new technologies and honing my skills. This GitHub repository serves as a showcase of my journey as a programmer and reflects the various projects I've worked on throughout my career.
 
 <!---  :raised_hand: I’m looking to collaborate on open source and commercial projects. --->
 
