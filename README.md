@@ -46,9 +46,6 @@ Here are some ideas to get you started:
  ### 🔭 I’m currently working on ...
 
 - My projects
-- My CSS skill
-- My Java Script skill
-- My HTML skill
 
  ### 🌱 I’m currently learning ...
 
@@ -70,8 +67,7 @@ You can reach out to me through the contact information available on my GitHub p
 
 ### 📫 How to reach me: sachini.anjana619@gmail.com 
 
-### ⚡ 
-  Thank you for stopping by and taking the time to explore my GitHub profile. Happy coding! 🚀
+### ⚡ Thank you for stopping by and taking the time to explore my GitHub profile. Happy coding! 🚀
 
 <hr> 
 
