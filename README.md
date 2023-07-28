@@ -59,7 +59,7 @@ Learning how people hide things and where people are likely to look.
 - Python
 - Java Script
 
- ### 📫 How to reach me: <h3> sachini.anjana619@gmail.com </h3>
+ ### 📫 How to reach me: sachini.anjana619@gmail.com 
 
  ### 😄 Pronouns: She/Her
 
