@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <h1 align="center">Welcome to My GitHub Profile!</h1>
-<h2 align="center">Hi, I'm Sachini Anjana<img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="100" height="200" alt="gif">
+<h2 align="center">Hi, I'm Sachini Anjana<img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="60" height="60" alt="gif">
 </h2><br>
 </p>
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
-<img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="500" height="350" alt="girl coding img" >
+<img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="600" height="450" alt="girl coding img" >
 
  ### 🔭 I’m currently working on ...
 
