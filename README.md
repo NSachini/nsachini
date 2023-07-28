@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
-<img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="600" height="450" alt="girl coding img" >
+<img align="right" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="550" height="400" alt="girl coding img" >
 
  ### 🔭 I’m currently working on ...
 
