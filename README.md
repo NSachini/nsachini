@@ -50,13 +50,12 @@ Here are some ideas to get you started:
 
  ### 🌱 I’m currently learning ...
 
-- Dart
+- flutter
+- firebase
 - React
-- Java
-- MySql 
 - PHP
 - Python
-- Java Script
+
 
  ### 😄 Pronouns: She/Her
  
