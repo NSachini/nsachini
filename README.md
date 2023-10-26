@@ -251,7 +251,7 @@ Thank you for stopping by and taking the time to explore my GitHub profile. Happ
 <br>
 <hr>
 
-<p align="center"> 
+<p> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsachini&layout=compact)
 <img height="142" src="https://github-readme-stats.vercel.app/api?username=nsachini&&show_icons=true&count_private=true&hide=issues&include_all_commits=true"/>
