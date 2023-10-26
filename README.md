@@ -251,12 +251,10 @@ Thank you for stopping by and taking the time to explore my GitHub profile. Happ
 <br>
 <hr>
 
-<p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsachini&layout=compact" alt="nsachini"/> 
+<img height="142" src="https://github-readme-stats.vercel.app/api?username=nsachini&&show_icons=true&count_private=true&hide=issues&include_all_commits=true"/> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsachini&layout=compact)
-<img height="142" src="https://github-readme-stats.vercel.app/api?username=nsachini&&show_icons=true&count_private=true&hide=issues&include_all_commits=true"/>
 
-</p>
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsachini&" alt="nsachini" /></p>
 
