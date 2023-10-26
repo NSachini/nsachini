@@ -253,11 +253,12 @@ Thank you for stopping by and taking the time to explore my GitHub profile. Happ
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsachini&layout=compact" alt="nsachini"/> 
 <img height="142" src="https://github-readme-stats.vercel.app/api?username=nsachini&&show_icons=true&count_private=true&hide=issues&include_all_commits=true"/> </p>
-
-
-
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsachini&" alt="nsachini" /></p>
-
+<p align="center">
+    <a href="https://wakatime.com/@Goblin8888">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=nsachini&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="85%" alt="activity graph">
+    </a>
+</p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsachini" alt="nsachini" /></a> </p> 
 
 
